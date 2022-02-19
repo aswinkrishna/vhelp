@@ -1,0 +1,1 @@
+Hi {customer_name}, your one time password for registering with Vhelp is {otp}

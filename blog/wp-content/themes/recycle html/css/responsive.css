@@ -1,0 +1,122 @@
+@media (min-width: 768px) {
+    .work-details.flex-md-column-reverse {
+        -ms-flex-direction: unset !important;
+        flex-direction: unset !important;
+    }
+}
+/* Portrait */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+   
+}
+
+@media screen and (max-device-width: 768px) {
+    .navbar-collapse{
+        background: #fff;
+    position: relative;
+    z-index: 9;
+    }
+    .about-page {
+        background-image: url(../images/bg-img/abt-img.jpg);
+        height: auto;
+        width: 100%;
+        padding: 65px 0;
+    }
+    .abt-back{
+        display: none;
+    }
+    .breadcrumb-re p{
+        display: none;
+    }
+    .mb-65{
+        margin-bottom: 65px;
+    }
+    .work-details.flex-md-column-reverse {
+        -ms-flex-direction: column-reverse !important;
+        flex-direction: column-reverse !important;
+    }
+
+    .border-top-right{
+        border-top: none;
+        border-right: none;
+    }
+    .border-top-left{
+        border-top:  none;
+        border-left:  none;
+        padding-right: 0;
+    }
+    .border-top-right-bottom{
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+    }
+    .position{
+        left: 0 !important;
+    }
+    .colm-panel h3 {
+text-align: center
+    }
+    .colm-panel p {
+        text-align: justify
+            }
+}
+
+
+
+@media screen and (min-width:100px) and (max-width:575px){
+    .content-img{
+        margin-top:30px !important;
+    }
+    .view_btn_cover{
+        padding-top:30px !important;
+    }
+    .view_btn_cover hr{
+        display:block !important;
+        margin-bottom:20px !important;
+   }
+   .carousel-indicators {
+    top: 76% !important;
+    padding-left: 15px;
+    padding-right:15px;
+}
+.banner-cover{
+    padding-top:3% !important;
+}
+}
+
+@media screen and (min-width: 100px) and (max-width:768px){
+    .breadcrumb{
+        display:none;
+    }
+    nav{
+        height:auto !important;
+    }
+    .navbar-collapse{
+        background:none !important;
+    }
+    .fixed{
+        padding-left:15px !important;
+        padding-right:15px !important;
+    }
+    
+    .fixed button{
+        border:none;
+        outline:none;
+        box-shadow:none;
+    }
+    
+    .fixed button aside{
+        background:#fff !important;
+    }
+    
+    .col-fluid-panel-wrapp{
+        margin-right:-15px !important;
+        margin-left:-15px !important;
+    }
+    
+    
+}
+
+.view_btn_cover hr{
+    display:none;
+}
+

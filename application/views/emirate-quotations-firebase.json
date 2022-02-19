@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "emirate-quotations",
+  "private_key_id": "f1f415ffc14803c8cb6834ff299298c916ee6f53",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQ6uIlxnQBOpyk\nJ7/k9UQ6OY7SnFBLydqoR0ufL5ciDc/UU6UOYAzEaYcPpiyhMM2GA/xEeBf4Ydp4\ntx5+Icyfx8+LmHbfmeBaFKw9LFryygCzdJGT1AmNqiweJwzf3xtje6d7M4wF5+VK\nhNMqEATU1eqX6a5D62kKa5n0ZnBJA6jFkenU0lxGvHAaihrVvoRPj5a10oeUHhtq\ncYia1b6Va9uXOv6rMf8ftDF0OBi+uptgDy+IcRe7SJd/HN0SLHiXVhJjkQDulrhs\nqHj10X7+swjbw7HViSqVQviRBeyfPeHF8awnMNsEqmVFeeh8KFcwFzNJYd8IWfSa\nbFt61v9pAgMBAAECggEADmUCYyGwBqo5gnW/UiEJrqXmeaWUtT5+5W21hYGe579K\n+Ep5r/Ca/AyGYafOMZGtLIVrUqrCKMYhgxGfagR19J4Oj81sa1/3wMLia+4it5CY\nmrq2tiIe888mNDWJShh5ejt/YpW3cCO9axY/+mLec/yuoXnQ+UaiJ6qR/4yIVTwt\nRXFi7bB68Doqem2wuDgJ+1CjR6r9upWD/EFNcsLphOkR4k+FaQNz/+1BzliTyNu+\nuvzmpz/RfXMByeHONXKhX6LcGj9DEcjVS8c5umfpC1DZM2pIPxSMWNttK89wIjcB\nt8ZJ8/iP7AYue1Sjvn9nF3yMBXLZnjgUfbjC4Mk8TQKBgQDIWJlCWkUK4DXvaFqu\nOglYzUqdiZrnLUZJ8lxl7DmU3+3T59MBDxjcxhjnUpvlOvq8sPK7/MnYqeFrU20I\npdx1qXtpryCFEDW26Gb/dwEiUPgnPXguq7HH+U30gbrNtcGli7BR176OuzlQZVEJ\nmf+2r9WARQRTk9hCUeWIRSkKVQKBgQC5LIo2l24yULSVkwDTz+R4hiXsCShcycbW\nL/U2+LmCK0npd9fD29Sq8UaDl4DOSH6TdGwcFFSkr0kjWK51qvlz80gfUQoTyqQr\nwf8Dl4tWckslkApDyShUfDXm64M9mYVciEbtlZzVNx8qgRXN+lQPACNb+E6tUlMq\neuSSyt3cxQKBgQCIhOcaccyuVo4qL1/rbRzFaE65/vSRJybIaOBRi6DJM7YqOcRs\n6k600kBSENauY3xMa/9b3ivk+g3jRpv70pnhi7XPFEkCo0MW+lKFLiCVs7sFcjud\nAd5JODbIsEYMuxfTqNZjTrJJLIcno4KPGmNHp5XCrEUAdrRcrNXN/+KxaQKBgDiB\nxf+YwFDsXd8TB/qbAy5gSWw48y81h87OvbazufBmA10SbC5hhAlSLWF0tyK77pxS\nt7bt4VKMBvaZVkukDBF9GPItibS2btjHj2lqMmQD5riktu0ukncNnGlGTztaAN9W\n2sYflMdf1cvjrmK31DTrpt6m7GNpruVUsTG2ZHO9AoGANsoLklV8UVG3njE/MET1\n83Tw57XwnNlN5vcyOaVRMDzmKaNViAauEdktQyR3xyLvnv4vhg0PmweH42mWdrnM\n75jKQL30SWP3qH8s+3oafZ/b07adxKUtoFNzapSLtVtcRBwtyIjjaXAn/7c8EtzA\nO53D1kNGDWBEq/LUl1iTeEs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ygps7@emirate-quotations.iam.gserviceaccount.com",
+  "client_id": "113417533605879261228",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ygps7%40emirate-quotations.iam.gserviceaccount.com"
+}
